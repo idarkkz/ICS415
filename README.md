@@ -4,7 +4,7 @@ Welcome to my personal portfolio showcasing 4 major projects built using Java, G
 
 ---
 
-## 🟨 Project 1 – Java Ray Tracer (`./Project1/`)
+## 🟨 Project 1 – Java Ray Tracer (`./Project%201/`)
 
 🖼️ _Image Preview:_ ![Java Ray Tracer Preview](./Project%201/Project-1-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EQ0-XqdcmpBPnQhNhWPkP7sBH6-A5iI24PT_XwkoDr4mvg?e=bmekuT)
