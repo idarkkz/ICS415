@@ -1,4 +1,4 @@
-# 🎓 My Computer Graphics & Java Portfolio
+# 🎓 My Computer Graphics Projects Portfolio
 
 Welcome to my personal portfolio showcasing 4 major projects built using Java, GLSL, and real-time rendering techniques. Each project includes source code, documentation, and a video demo. Click a project folder to learn more.
 
