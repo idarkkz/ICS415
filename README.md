@@ -6,7 +6,7 @@ Welcome to my personal portfolio showcasing 4 major projects built using Java, G
 
 ## 🟨 Project 1 – Java Ray Tracer (`./Project1/`)
 
-🖼️ _Image Preview:_ ![Java Ray Tracer Preview](./Project1/Project-1-Preview.png)  
+🖼️ _Image Preview:_ ![Java Ray Tracer Preview](./Project%201/Project-1-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EQ0-XqdcmpBPnQhNhWPkP7sBH6-A5iI24PT_XwkoDr4mvg?e=bmekuT)
 
 ### ✨ Description
@@ -24,7 +24,7 @@ A modular ray tracer implemented in Java, capable of rendering basic 3D scenes u
 
 ## 🟦 Project 2 – GLSL Ray Tracer (Shadertoy) (`./Project2/`)
 
-🖼️ _Image Preview:_ ![GLSL Shader Preview](./Project2/Project2-Preview.png)  
+🖼️ _Image Preview:_ ![GLSL Shader Preview](./Project2%20/Project2-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EczlRlFuyvNJqt1VIUKZSawB-rv2Tqg1IeqT3fMgk9YbEQ?e=DbE4Vw)
 
 ### ✨ Description
@@ -42,7 +42,7 @@ A real-time GPU ray tracer written in GLSL for Shadertoy with recursive bounces 
 
 ## 🟥 Project 3 – Minecraft-like Java Game (`./Project3/`)
 
-🖼️ _Image Preview:_ ![Minecraft-like Preview](./Project3/Project3-Preview.png)  
+🖼️ _Image Preview:_ ![Minecraft-like Preview](./Project3%20/Project3-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EWnpNEyB0wlPvxktULtvvwoB6DlUFmMNmb7euGgPsuvjlA?e=OUYmQM)
 
 ### ✨ Description
@@ -60,7 +60,7 @@ A voxel-based game engine inspired by Minecraft with terrain generation, block i
 
 ## 🟩 Project 4 – Bézier Curve Editor (`./Project4/`)
 
-🖼️ _Image Preview:_ ![Bezier Curve Editor Preview](./Project4/Project4-Preview.png)  
+🖼️ _Image Preview:_ ![Bezier Curve Editor Preview](./Project%204/Project4-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EZl3yHRXn8lMoEg4NsPeq4ABh-fPA98r3LEGZ206OUtzHw?e=e05mvf)
 
 ### ✨ Description
