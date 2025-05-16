@@ -24,7 +24,7 @@ A modular ray tracer implemented in Java, capable of rendering basic 3D scenes u
 
 ## 🟦 Project 2 – GLSL Ray Tracer (Shadertoy) (`./Project2/`)
 
-🖼️ _Image Preview:_ ![GLSL Shader Preview](./Project2%20/Project2-Preview.png)  
+🖼️ _Image Preview:_ ![GLSL Shader Preview](./Project%202/Project2-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EczlRlFuyvNJqt1VIUKZSawB-rv2Tqg1IeqT3fMgk9YbEQ?e=DbE4Vw)
 
 ### ✨ Description
@@ -42,7 +42,7 @@ A real-time GPU ray tracer written in GLSL for Shadertoy with recursive bounces 
 
 ## 🟥 Project 3 – Minecraft-like Java Game (`./Project3/`)
 
-🖼️ _Image Preview:_ ![Minecraft-like Preview](./Project3%20/Project3-Preview.png)  
+🖼️ _Image Preview:_ ![Minecraft-like Preview](./Project%203/Project3-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EWnpNEyB0wlPvxktULtvvwoB6DlUFmMNmb7euGgPsuvjlA?e=OUYmQM)
 
 ### ✨ Description
