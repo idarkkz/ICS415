@@ -60,7 +60,7 @@ A voxel-based game engine inspired by Minecraft with terrain generation, block i
 
 ## 🟩 Project 4 – Bézier Curve Editor (`./Project4/`)
 
-🖼️ _Image Preview:_ ![Bezier Curve Editor Preview](./Project4/Project4-Preview.png)  
+🖼️ _Image Preview:_ ![Bezier Curve Editor Preview](./Project 4/Project4-Preview.png)  
 ▶️ _Video Demo:_ [Watch here](https://kfupmedusa-my.sharepoint.com/:v:/g/personal/s201933090_kfupm_edu_sa/EZl3yHRXn8lMoEg4NsPeq4ABh-fPA98r3LEGZ206OUtzHw?e=e05mvf)
 
 ### ✨ Description
